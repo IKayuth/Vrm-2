@@ -1,2 +1,2 @@
-# Vrm-2
+# react-three-fiber-vrm
 Created with CodeSandbox
